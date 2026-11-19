@@ -134,7 +134,7 @@ body {
 }
     
 .group27 {
-    margin: 0 80px;
+    margin: 150px 80px;
     color: #FFFFFF;
 }
     
@@ -149,7 +149,7 @@ body {
     display: flex;
     justify-content: center;
     list-style-type: none;
-    margin: 20px 0 130px;
+    margin: 20px 0 0;
 }
     
 .dispositivos {
